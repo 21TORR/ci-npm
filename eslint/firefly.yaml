@@ -1,0 +1,24 @@
+parser: '@typescript-eslint/parser'
+
+parserOptions:
+    project: './tsconfig.json'
+
+settings:
+    react:
+        createClass: "Component"
+        pragma: "h"
+        version: "16.3"
+
+plugins:
+    - react
+    - react-hooks
+    - jsdoc
+    - '@typescript-eslint'
+
+extends:
+    - 'eslint:recommended'
+    - './includes/base.yaml'
+    - './includes/jsdoc.yaml'
+    - './includes/react.yaml'
+    - './includes/react-hooks.yaml'
+    - './includes/typescript.yaml'

@@ -1,0 +1,31 @@
+parserOptions:
+    ecmaVersion: 2020
+    sourceType: module
+    ecmaFeatures:
+        jsx: true
+        experimentalObjectRestSpread: true
+
+env:
+    browser: true
+    commonjs: true
+    es6: true
+    jquery: true
+
+
+globals:
+    App: true
+    Foundation: true
+    require: false
+    __DEBUG__: true
+
+rules:
+    indent:
+        - error
+        - tab
+    linebreak-style:
+        - error
+        - unix
+    semi:
+        - error
+        - always
+
