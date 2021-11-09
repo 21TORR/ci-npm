@@ -1,3 +1,9 @@
+1.0.2
+=====
+
+*   (improvement) Relax `@typescript-eslint/no-inferrable-types` checking.
+
+
 1.0.1
 =====
 
