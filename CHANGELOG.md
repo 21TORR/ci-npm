@@ -1,3 +1,9 @@
+1.0.3
+=====
+
+*   (improvement) Fix JS indention in `switch`.
+
+
 1.0.2
 =====
 
