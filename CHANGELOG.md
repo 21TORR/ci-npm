@@ -1,3 +1,9 @@
+1.0.4 (unreleased)
+=====
+
+*   (improvement) Relax `@typescript-eslint/ban-ts-comment` checking.
+
+
 1.0.3
 =====
 
