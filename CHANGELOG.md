@@ -1,7 +1,8 @@
-1.0.4 (unreleased)
+1.0.4
 =====
 
 *   (improvement) Relax `@typescript-eslint/ban-ts-comment` checking.
+*   (improvement) Bump dependencies to newest version.
 
 
 1.0.3
