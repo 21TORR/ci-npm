@@ -1,6 +1,6 @@
 {
 	"name": "@21torr/ci-npm",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "Base configuration files for CI tools installed via npm",
 	"license": "MIT",
 	"homepage": "https://github.com/21TORR/ci-npm",
