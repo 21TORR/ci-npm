@@ -14,6 +14,18 @@ extends:
     - './node_modules/@21torr/ci-npm/eslint/{package}.yaml'
 ```
 
+### Next.js
+
+In a Next.js project, you should use:
+
+```yaml
+extends:
+    - './node_modules/@21torr/ci-npm/eslint/next.js-jsonly.yaml'
+    - './node_modules/@21torr/ci-npm/eslint/includes/typescript.yaml'
+    - "next"
+    - "next/core-web-vitals"
+```
+
 
 Using the Stylelint config
 --------------------------

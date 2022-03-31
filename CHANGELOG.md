@@ -1,3 +1,9 @@
+1.0.5
+=====
+
+* (improvement) Add new improved `next.js.yaml` config.
+
+
 1.0.4
 =====
 
