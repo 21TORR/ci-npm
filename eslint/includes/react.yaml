@@ -1,6 +1,3 @@
-plugins:
-    - react
-
 rules:
     'react/button-has-type': error
     'react/jsx-closing-bracket-location': warn
