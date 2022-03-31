@@ -1,3 +1,5 @@
+# deprecated, use next.js.yaml
+
 plugins:
     - react
     - react-hooks
