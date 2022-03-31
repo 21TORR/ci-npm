@@ -1,3 +1,9 @@
+1.0.6
+=====
+
+* (improvement) Only load plugins if we actually need them and not by default.
+
+
 1.0.5
 =====
 
