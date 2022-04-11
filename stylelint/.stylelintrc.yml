@@ -32,7 +32,9 @@ rules:
     string-no-newline: true
 
     # Length
-    length-zero-no-unit: true
+    length-zero-no-unit:
+        - true
+        - ignore: ["custom-properties"]
 
     # Unit
     unit-disallowed-list: ["pc", "in", "cm", "mm", "ex"]

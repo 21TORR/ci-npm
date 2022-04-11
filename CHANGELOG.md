@@ -1,3 +1,9 @@
+1.0.7
+=====
+
+* (improvement) Allow `0` with unit for custom properties.
+
+
 1.0.6
 =====
 
