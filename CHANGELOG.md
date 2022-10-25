@@ -1,3 +1,9 @@
+1.0.8
+=====
+
+* (improvement) Ignore unused `props` parameters.
+
+
 1.0.7
 =====
 
