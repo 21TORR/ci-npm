@@ -19,13 +19,28 @@ globals:
     __DEBUG__: true
 
 rules:
+    brace-style:
+        - error
+        - allman
     indent:
         - error
         - tab
         - SwitchCase: 1
+    keyword-spacing:
+        - error
+        - after: true
+          before: true
     linebreak-style:
         - error
         - unix
+    quotes:
+        - warn
+        - double
+        - avoidEscape: true
+          allowTemplateLiterals: true
     semi:
+        - error
+        - always
+    space-before-function-paren:
         - error
         - always

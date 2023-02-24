@@ -1,3 +1,9 @@
+1.1.0
+=====
+
+* (improvement) Add `brace-style`, `keyword-spacing`, `quotes` and `space-before-function-paren` settings to `base.yaml` eslint configuration.
+
+
 1.0.8
 =====
 
