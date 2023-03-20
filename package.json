@@ -1,6 +1,6 @@
 {
 	"name": "@21torr/ci-npm",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"description": "Base configuration files for CI tools installed via npm",
 	"license": "MIT",
 	"homepage": "https://github.com/21TORR/ci-npm",
@@ -13,10 +13,11 @@
 		"publish-branch": "1.x"
 	},
 	"dependencies": {
-		"@typescript-eslint/eslint-plugin": "^5.17.0",
-		"@typescript-eslint/parser": "^5.17.0",
-		"eslint-plugin-jsdoc": "^38.1.4",
-		"eslint-plugin-react": "^7.29.4",
-		"eslint-plugin-react-hooks": "^4.4.0"
+		"@typescript-eslint/eslint-plugin": "^5.55.0",
+		"@typescript-eslint/parser": "^5.55.0",
+		"eslint-plugin-jsdoc": "^38.1.6",
+		"eslint-plugin-react": "^7.32.2",
+		"eslint-plugin-react-hooks": "^4.6.0",
+		"stylelint-config-standard": "^31.0.0"
 	}
 }
