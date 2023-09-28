@@ -3,6 +3,8 @@ CI Config: NPM
 
 Our shared config for all CI tools that are installed via (p)npm.
 
+> 📚 [**Read the docs**](https://21torr-docs.fly.dev/docs/ts-scss/ci-npm/)
+
 
 Using the ESLint config
 -----------------------
