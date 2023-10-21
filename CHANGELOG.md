@@ -1,3 +1,9 @@
+1.1.1
+=====
+
+* (improvement) Upgrade to stylelint v15 and fix deprecated rules.
+
+
 1.1.0
 =====
 
